@@ -1,2 +1,2 @@
 # apachecamel
-sample projects on apache camel
+sample project on apache camel
